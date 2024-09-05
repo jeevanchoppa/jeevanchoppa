@@ -1,6 +1,6 @@
 ![MasterHead](https://ibagroupit.com/wp-content/uploads/2020/05/banner_1300-357_devops.png)
 <h1 align="center">Hi 👋, I'm Jeevan Satyanarayana Choppa</h1>
-<h3 align="center">A passionate Devops Engineer</h3>
+<h3 align="center">Passionate Devops Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working as **Cloud & DevOps Engineer**
